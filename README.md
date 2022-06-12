@@ -5,4 +5,6 @@ Dream Housing Finance company deals in all kinds of home loans. They have a pres
 
 Click here to visit the [website](http://gcit-loanprediction.herokuapp.com/)
 
-<img src=''>
+**Poster**
+
+<img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/Poster.jpeg'>
