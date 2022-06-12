@@ -1,0 +1,161 @@
+.container{
+  width: 50%;
+  margin-left: 20%;
+  border-radius: 60%;
+  border: 2px solid;
+  background-color: #ffcc66;
+}
+.formname{
+  border: 3px solid;
+  border-radius: 15%;
+  margin-top: 5%;
+  background-color: #ff944d;
+  padding-top: 5%;
+  padding-bottom: 1%;
+  width: 40%;
+  height: 50px;
+}
+
+input[type=text], select{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  resize: vertical;
+  color: black;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+  font-family: optima;
+  border-radius: 20px;
+  padding: 12px 20px;
+  
+
+}
+
+input[type=submit] {
+  background-image: linear-gradient(yellow, orange);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  font-weight: bold;
+  color: black;
+  margin-left: 50%;
+
+}
+
+input[type=submit]:hover {
+ background-image: linear-gradient(orange, brown);
+  
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+.row{
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+::placeholder {
+  color: grey;
+  opacity: 1; /* Firefox */
+}
+
+.row #Dependents
+{
+  width: 95%;
+}
+
+.row #applicantincome
+{
+  width: 95%;
+}
+
+.row #coapplication
+{
+  width: 95%;
+}
+.row #loanamount
+{
+  width: 95%;
+}
+
+.row #laon_amount_terms
+{
+  width: 95%;
+}
+
+.row #credit_history
+{
+  width: 95%;
+}
+.headclass
+{
+  display: flex;
+}
+.logo img{
+  max-width: 100%;
+	width: 130px;
+	height: auto;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .row #Dependents{
+    width: 90%;
+  }
+  .row #applicantincome
+  {
+    width: 90%;
+  }
+
+  .row #coapplication
+  {
+    width: 90%;
+  }
+  .row #loanamount
+  {
+    width: 90%;
+  }
+
+  .row #laon_amount_terms
+  {
+    width: 90%;
+  }
+
+  .row #credit_history
+  {
+    width: 90%;
+  }
+
+}
