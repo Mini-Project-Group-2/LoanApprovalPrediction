@@ -8,3 +8,10 @@ Click here to visit the [website](http://gcit-loanprediction.herokuapp.com/)
 **Poster**
 
 <img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/Poster.jpeg'>
+
+# Screenshot of the Web Application
+
+<img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/1.png'>
+<img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/2.png'>
+<img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/3.png'>
+<img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/4.png'>
