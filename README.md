@@ -5,6 +5,12 @@ Dream Housing Finance company deals in all kinds of home loans. They have a pres
 
 Click here to visit the [website](http://gcit-loanprediction.herokuapp.com/)
 
+**Note: This web-application is trained to classify following output**
+
+1. Yes - Get loan
+2. No - Will not get Loan
+
+
 **Poster**
 
 <img src='https://github.com/Mini-Project-Group-2/LoanApprovalPrediction/blob/master/Images/Poster.jpeg'>
